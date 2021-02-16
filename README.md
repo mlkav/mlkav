@@ -4,6 +4,7 @@
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/IDE-Android%20Studio-blue?&logo=android%20studio&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/maulanakavaldo" />
 </p>
 
@@ -20,8 +21,8 @@
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=maulanakavaldo&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanakavaldo&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=maulanakavaldo&hide=contribs,prs&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanakavaldo&layout=compact"  />
 </p>
 
 ### Let's connect!
@@ -29,7 +30,7 @@
     <a href="https://linkedin.com/in/maulana-kavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@maulanakavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=medium" /></a>
     <a href="https://twitter.com/maulana_kavaldo" target="blank"><img src="https://img.shields.io/badge/@maulana_kavaldo-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://instagram.com/maulana_kavaldo" target="blank"><img src="https://img.shields.io/badge/@maulanakavaldo-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/maulanakavaldo" target="blank"><img src="https://img.shields.io/badge/@maulanakavaldo-30302f?style=flat&logo=instagram" /></a>
     <a href="https://wa.me/6281393363478" target="blank"><img src="https://img.shields.io/badge/Whatsapp Me-30302f?style=flat&logo=whatsapp" /></a>
     <a href="https://paypal.me/maulanakavaldo" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
