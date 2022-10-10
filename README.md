@@ -29,9 +29,11 @@
 <p>
     <a href="https://linkedin.com/in/maulana-kavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@maulanakavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=medium" /></a>
-    <a href="https://twitter.com/maulana_kavaldo" target="blank"><img src="https://img.shields.io/badge/@maulana_kavaldo-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://instagram.com/maulanakavaldo" target="blank"><img src="https://img.shields.io/badge/@maulanakavaldo-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://twitter.com/mlnkvld" target="blank"><img src="https://img.shields.io/badge/@maulana_kavaldo-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://instagram.com/mlnakvld" target="blank"><img src="https://img.shields.io/badge/@maulanakavaldo-30302f?style=flat&logo=instagram" /></a>
+    <!---
     <a href="https://wa.me/6281393363478" target="blank"><img src="https://img.shields.io/badge/Whatsapp Me-30302f?style=flat&logo=whatsapp" /></a>
+    --->
     <a href="https://paypal.me/maulanakavaldo" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
