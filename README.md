@@ -35,6 +35,8 @@
     <a href="https://wa.me/6281393363478" target="blank"><img src="https://img.shields.io/badge/Whatsapp Me-30302f?style=flat&logo=whatsapp" /></a>
     --->
     <a href="https://paypal.me/maulanakavaldo" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+    
+    src="https://img.shields.io/twitter/follow/MrsRMarr?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 </p>
 
 <!--
