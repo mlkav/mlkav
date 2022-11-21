@@ -36,7 +36,8 @@
     --->
     <a href="https://paypal.me/maulanakavaldo" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
     
-    src="https://img.shields.io/twitter/follow/MrsRMarr?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+    <a href="https://www.twitter.com/MrsRMarr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/MrsRMarr?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+    
 </p>
 
 <!--
