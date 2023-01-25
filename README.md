@@ -11,14 +11,14 @@
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on ... </br>
-    - 🌱 I’m currently learning SwiftUI and UIKit </br>
+    - 🔭 I’m currently open to work </br>
+<!--     - 🌱 I’m currently learning SwiftUI and UIKit </br>
     - 👯 I’m looking to collaborate on ... </br>
-    - 🤔 I’m looking for help with ... </br>
+    - 🤔 I’m looking for help with ... </br> -->
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:alkav.maulana@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
+<!--     - ⚡ Fun fact: ... </br> -->
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=maulanakavaldo&hide=contribs,prs&show_icons=true&theme=tokyonight" />
