@@ -10,7 +10,7 @@
 </p>
 
 ### Student at:
-- AWS re/Start Batch 5
+- <a href="https://github.com/maulanakavaldo/AWS_re-Start" target="_blank">AWS re/Start Batch 5</a>
 - DTS: PROA Google Cloud Fundamental
 - DTS: FGA Data Science
 - Green Digital Skills Inco Academy
