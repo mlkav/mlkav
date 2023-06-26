@@ -33,6 +33,20 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanakavaldo&layout=compact"  />
 </p>
 
+### Certificated
+- AWS Certified Cloud Practitioner (CCP)
+- Alibaba Cloud Associate: Cloud Security
+- DTS: PROA Google Cloud Fundamental
+- DTS: FGA Data Science
+- Google Cloud Platform Badge (GCP)
+- Microsoft Office Specialist
+- Hackerrank
+- DQLab
+- Pacmann
+- Rapid Miner
+- Bitdegree
+- Udemy
+
 ### Let's connect!
 <p>
     <a href="https://linkedin.com/in/maulana-kavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=linkedin" /></a>
