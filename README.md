@@ -38,14 +38,14 @@
 - Alibaba Cloud Associate: Cloud Security
 - DTS: PROA Google Cloud Fundamental
 - DTS: FGA Data Science
-- Google Cloud Platform Badge (GCP)
-- Microsoft Office Specialist
-- Hackerrank
-- DQLab
+- <a href="https://www.cloudskillsboost.google/public_profiles/aa062bc9-81cc-4a11-9f53-025437d13c1f">Google Cloud Platform Badge (GCP)
+- Microsoft Office Specialist</a>
+- <a href="https://maulanakavaldo.github.io/pages/gallery-hackerrank.html">Hackerrank</a>
+- <a href="https://maulanakavaldo.github.io/pages/gallery-dqlab.html">DQLab</a>
 - Pacmann
 - Rapid Miner
 - Bitdegree
-- Udemy
+- <a href="https://maulanakavaldo.github.io/pages/gallery-udemy.html">Udemy</a>
 
 ### Let's connect!
 <p>
