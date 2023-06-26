@@ -1,9 +1,4 @@
-<style>
-  .column {
-    width: 50%;
-    float: left;
-  }
-</style>
+
 
 # Hi there 👋 , I'm Maulana!
 
@@ -45,6 +40,13 @@
 
 
 ### Certificates:
+<style>
+  .column {
+    width: 50%;
+    float: left;
+  }
+</style>
+
 <div class="column">
   <ul>
     <li><a href="https://maulanakavaldo.github.io/pages/gallery-aws-ccp.html">AWS Certified Cloud Practitioner (CCP)</a></li>
