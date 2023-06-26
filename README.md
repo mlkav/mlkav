@@ -5,7 +5,8 @@
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/IDE-Android%20Studio-blue?&logo=android%20studio&logoColor=blue" />
-<!--     <img src="https://gpvc.arturio.dev/maulanakavaldo" /> -->
+    <img src="https://img.shields.io/badge/Visualization-Looker%20Studio%2C%20Tableau-blue?&logo=looker&logoColor=blue" />
+    <!-- <img src="https://gpvc.arturio.dev/maulanakavaldo" /> -->
 </p>
 
 ### Stats:
@@ -21,8 +22,7 @@
 <!--     - ⚡ Fun fact: ... </br> -->
 </details>
 <p>
-<!--  theme=tokyonight    -->
-    <img src="https://github-readme-stats.vercel.app/api?username=maulanakavaldo&hide=contribs,prs&show_icons=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api?username=maulanakavaldo&hide=contribs,prs&show_icons=true&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanakavaldo&layout=compact"  />
 </p>
 
