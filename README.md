@@ -9,6 +9,13 @@
     <!-- <img src="https://gpvc.arturio.dev/maulanakavaldo" /> -->
 </p>
 
+### Student at:
+- AWS re/Start Batch 5
+- DTS: PROA Google Cloud Fundamental
+- DTS: FGA Data Science
+- Green Digital Skills Inco Academy
+- Kartu Prakerja
+
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
