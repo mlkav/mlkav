@@ -12,8 +12,8 @@
 
 ### Student at:
 - <a href="https://github.com/maulanakavaldo/AWS_re-Start" target="_blank">AWS re/Start Batch 5</a>
-- DTS: PROA Google Cloud Fundamental
-- DTS: FGA Data Science
+- <a href="https://github.com/maulanakavaldo/Digital-Talent-Scholarship/" target="_blank">DTS: PROA Google Cloud Fundamental</a>
+- <a href="https://github.com/maulanakavaldo/Digital-Talent-Scholarship/" target="_blank">DTS: FGA Data Science</a>
 - Dicoding
 - Green Digital Skills Inco Academy
 - Kartu Prakerja
