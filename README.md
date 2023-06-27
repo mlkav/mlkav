@@ -50,8 +50,8 @@
 - <a href="https://maulanakavaldo.github.io/pages/gallery-rapid-miner.html">Rapid Miner</a>
 <!-- - Bitdegree -->
 
-
-| Certificates: |   |
+### Certificates:
+|  |   |
 |-----------|-----------|
 |⦁ <a href="https://maulanakavaldo.github.io/pages/gallery-aws-ccp.html">AWS Certified Cloud Practitioner (CCP)</a>                     |⦁ <a href="https://maulanakavaldo.github.io/pages/gallery-hackerrank.html">Hackerrank</a>      |
 |⦁ <a href="https://maulanakavaldo.github.io/assets/img/certif_licen/alibaba-security.png">Alibaba Cloud Associate: Cloud Security</a>  |⦁ <a href="https://maulanakavaldo.github.io/pages/gallery-dqlab.html">DQLab</a>                |
