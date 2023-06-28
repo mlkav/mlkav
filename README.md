@@ -9,7 +9,6 @@
     <!-- <img src="https://gpvc.arturio.dev/maulanakavaldo" /> -->
 </p>
 
-<div style="float: left;">
 
 ### Student at:
 - <a href="https://github.com/maulanakavaldo/AWS_re-Start" target="_blank">AWS re/Start Batch 5</a>
@@ -19,35 +18,15 @@
 - Green Digital Skills Inco Academy
 - Kartu Prakerja
 
-</div>
-<div style="float: left;">
 
 ### Stats:
     🔭 I’m currently open to work
-  
-</div>
 
-<!-- ### Stats:
-    🔭 I’m currently open to work -->
 
-<!-- <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently open to work </br>
-    - 🌱 I’m currently learning SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on ... </br>
-    - 🤔 I’m looking for help with ... </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:alkav.maulana@gmail.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
-</details> -->
-
-<div style="float: none;">
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=maulanakavaldo&hide=contribs,prs&show_icons=true&theme=tokyonight" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanakavaldo&layout=compact"  />
-    </p>
-</div>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=maulanakavaldo&hide=contribs,prs&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanakavaldo&layout=compact"  />
+</p>
 
 
 ### Certificates:
@@ -71,7 +50,22 @@
     <a href="https://wa.me/6281393363478" target="blank"><img src="https://img.shields.io/badge/Whatsapp Me-30302f?style=flat&logo=whatsapp" /></a>
     --->
     <a href="https://paypal.me/maulanakavaldo" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
-       
 </p>
 
 
+<!-- ====================================================================================================================== -->
+
+<!-- ### Stats:
+    🔭 I’m currently open to work -->
+
+<!-- <details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+    - 🔭 I’m currently open to work </br>
+    - 🌱 I’m currently learning SwiftUI and UIKit </br>
+    - 👯 I’m looking to collaborate on ... </br>
+    - 🤔 I’m looking for help with ... </br>
+    - 💬 Ask me about anything.</br>
+    - 📫 How to reach me: <a href="mailto:alkav.maulana@gmail.com">Email me!</a>  </br>
+    - 😄 Pronouns: He/Him </br>
+    - ⚡ Fun fact: ... </br>
+</details> -->
