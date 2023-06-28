@@ -20,6 +20,7 @@
 
 
 ### Stats:
+    🔭 I’m currently open to work
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently open to work </br>
@@ -31,6 +32,7 @@
     - 😄 Pronouns: He/Him </br>
 <!--     - ⚡ Fun fact: ... </br> -->
 </details>
+
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=maulanakavaldo&hide=contribs,prs&show_icons=true&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanakavaldo&layout=compact"  />
@@ -62,6 +64,7 @@
 
 ### Let's connect!
 <p>
+    <a href="https://instagram.com/maulana.kavaldo" target="blank"><img src="https://img.shields.io/badge/@maulanakavaldo-30302f?style=flat&logo=gmail" /></a>
     <a href="https://linkedin.com/in/maulana-kavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@maulanakavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=medium" /></a>
     <a href="https://twitter.com/mlnkvld" target="blank"><img src="https://img.shields.io/badge/@maulana_kavaldo-30302f?style=flat&logo=twitter" /></a>
