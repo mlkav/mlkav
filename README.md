@@ -21,17 +21,18 @@
 
 ### Stats:
     🔭 I’m currently open to work
-<details>
+
+<!-- <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently open to work </br>
-<!--     - 🌱 I’m currently learning SwiftUI and UIKit </br>
+    - 🌱 I’m currently learning SwiftUI and UIKit </br>
     - 👯 I’m looking to collaborate on ... </br>
-    - 🤔 I’m looking for help with ... </br> -->
+    - 🤔 I’m looking for help with ... </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:alkav.maulana@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-<!--     - ⚡ Fun fact: ... </br> -->
-</details>
+    - ⚡ Fun fact: ... </br>
+</details> -->
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=maulanakavaldo&hide=contribs,prs&show_icons=true&theme=tokyonight" />
@@ -64,7 +65,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://instagram.com/maulana.kavaldo" target="blank"><img src="https://img.shields.io/badge/@maulanakavaldo-30302f?style=flat&logo=gmail" /></a>
+    <a href="mailto:alkav.maulana@gmail.com" target="blank"><img src="https://img.shields.io/badge/alkav.maulana@gmail.com-30302f?style=flat&logo=gmail" /></a>
     <a href="https://linkedin.com/in/maulana-kavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@maulanakavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=medium" /></a>
     <a href="https://twitter.com/mlnkvld" target="blank"><img src="https://img.shields.io/badge/@maulana_kavaldo-30302f?style=flat&logo=twitter" /></a>
@@ -76,17 +77,4 @@
        
 </p>
 
-<!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
