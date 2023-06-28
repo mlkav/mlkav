@@ -1,19 +1,5 @@
 # Hi there 👋 , I'm Maulana!
 
-<div style="text-align: center;">
-    <p>
-        <a href="mailto:alkav.maulana@gmail.com" target="blank"><img src="https://img.shields.io/badge/alkav.maulana@gmail.com-30302f?style=flat&logo=gmail" /></a>
-        <a href="https://linkedin.com/in/maulana-kavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=linkedin" /></a>
-        <a href="https://medium.com/@maulanakavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=medium" /></a>
-        <a href="https://twitter.com/mlnkvld" target="blank"><img src="https://img.shields.io/badge/@maulana_kavaldo-30302f?style=flat&logo=twitter" /></a>
-        <a href="https://instagram.com/maulana.kavaldo" target="blank"><img src="https://img.shields.io/badge/@maulanakavaldo-30302f?style=flat&logo=instagram" /></a>
-        <!---
-        <a href="https://wa.me/6281393363478" target="blank"><img src="https://img.shields.io/badge/Whatsapp Me-30302f?style=flat&logo=whatsapp" /></a>
-        --->
-        <a href="https://paypal.me/maulanakavaldo" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
-    </p>
-</div>
-
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
@@ -51,6 +37,15 @@
 |⦁ <a href="https://www.cloudskillsboost.google/public_profiles/aa062bc9-81cc-4a11-9f53-025437d13c1f">Google Cloud Platform Badge (GCP)</a> |⦁ <a href="https://maulanakavaldo.github.io/pages/gallery-dqlab.html">DQLab</a>                |
 |⦁ <a href="https://maulanakavaldo.github.io/assets/img/certif_licen/mos_2013.png">Microsoft Office Specialist</a>                          |⦁ <a href="https://maulanakavaldo.github.io/pages/gallery-pacmann.html">Pacmann</a>            |
 
+### Let's connect!
+<p>
+    <a href="mailto:alkav.maulana@gmail.com" target="blank"><img src="https://img.shields.io/badge/alkav.maulana@gmail.com-30302f?style=flat&logo=gmail" /></a>
+    <a href="https://linkedin.com/in/maulana-kavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://medium.com/@maulanakavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=medium" /></a>
+    <a href="https://twitter.com/mlnkvld" target="blank"><img src="https://img.shields.io/badge/@maulana_kavaldo-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://instagram.com/maulana.kavaldo" target="blank"><img src="https://img.shields.io/badge/@maulanakavaldo-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://paypal.me/maulanakavaldo" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+</p>
 
 <!-- ====================================================================================================================== -->
 
