@@ -52,7 +52,7 @@
 <p>
     <a href="mailto:alkav.maulana@gmail.com" target="blank"><img src="https://img.shields.io/badge/alkav.maulana@gmail.com-30302f?style=flat&logo=gmail" /></a>
     <a href="https://linkedin.com/in/maulana-kavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@maulanakavaldo" target="blank"><img src="https://img.shields.io/badge/Maulana_Kavaldo-30302f?style=flat&logo=medium" /></a>
+    <a href="https://medium.com/@maulanakavaldo" target="blank"><img src="https://img.shields.io/badge/Medium-30302f?style=flat&logo=medium" /></a>
     <a href="https://twitter.com/mlnkvld" target="blank"><img src="https://img.shields.io/badge/@maulana_kavaldo-30302f?style=flat&logo=twitter" /></a>
     <a href="https://instagram.com/maulana.kavaldo" target="blank"><img src="https://img.shields.io/badge/@maulanakavaldo-30302f?style=flat&logo=instagram" /></a>
     <a href="https://paypal.me/maulanakavaldo" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
