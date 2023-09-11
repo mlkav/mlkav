@@ -1,10 +1,10 @@
 # Hi there 👋 , I'm Maulana!
 
-<center>
+<p>
 <img src="apple.svg" width="25px" height="25px"/>
 <img src="windows.svg" width="25px" height="25px"/>
 <img src="linux.svg" width="25px" height="25px"/>
-</center>
+</p>
 
 ### Tools:
 <p>
