@@ -1,5 +1,11 @@
 # Hi there 👋 , I'm Maulana!
 
+<center>
+<img src="apple.svg" width="25px" height="25px"/>
+<img src="windows.svg" width="25px" height="25px"/>
+<img src="linux.svg" width="25px" height="25px"/>
+</center>
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
