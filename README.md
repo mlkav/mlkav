@@ -24,7 +24,9 @@
 - <a href="https://github.com/maulanakavaldo/AWS_re-Start" target="_blank">AWS re/Start Batch 5</a>
 - <a href="https://github.com/maulanakavaldo/Digital-Talent-Scholarship/" target="_blank">DTS: PROA Google Cloud Fundamental</a>
 - <a href="https://github.com/maulanakavaldo/Digital-Talent-Scholarship/" target="_blank">DTS: FGA Data Science</a>
-- Dicoding
+- Cloud Architecting (AWS)
+- Alibaba Big Data
+- Dicoding Academy
 - Green Digital Skills Inco Academy
 - Kartu Prakerja
 
