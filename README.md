@@ -60,6 +60,11 @@
     <a href="https://paypal.me/maulanakavaldo" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 <!-- ====================================================================================================================== -->
 
 <!-- ### Stats:
