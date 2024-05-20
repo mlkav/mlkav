@@ -11,7 +11,7 @@
 
 <div id="header">
   <img src="https://komarev.com/ghpvc/?username=maulana-kavaldo&style=for-the-badge&color=orange" alt=""/>
-  ![](https://komarev.com/ghpvc/?username=maulana-kavaldo&color=green)
+  <img src="https://komarev.com/ghpvc/?username=maulana-kavaldo&color=green" alt=""/>
 </div>
 
 </p>
