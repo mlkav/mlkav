@@ -9,8 +9,9 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://komarev.com/ghpvc/?username=maulana-kavaldo&style=for-the-badge&color=orange" alt=""/>
+  ![](https://komarev.com/ghpvc/?username=maulana-kavaldo&color=green)
 </div>
 
 </p>
