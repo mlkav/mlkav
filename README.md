@@ -37,10 +37,6 @@
 - Kartu Prakerja
 
 
-### Stats:
-    🔭 I’m currently open to work
-
-
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=maulanakavaldo&hide=contribs,prs&show_icons=true&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanakavaldo&layout=compact"  />
