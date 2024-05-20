@@ -10,8 +10,8 @@
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 
 <div id="header">
-  <img src="https://komarev.com/ghpvc/?username=maulana-kavaldo&style=for-the-badge&color=orange" alt=""/>
-  <img src="https://komarev.com/ghpvc/?username=maulana-kavaldo&color=green" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=maulana-kavaldo&style=for-the-badge&color=green" alt=""/>
+  <!--<img src="https://komarev.com/ghpvc/?username=maulana-kavaldo&color=green" alt=""/>-->
 </div>
 
 </p>
