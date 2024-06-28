@@ -42,7 +42,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulanakavaldo&layout=compact" style="display: inline-block; vertical-align: top;" />
 </p>
 
-
+### Awards:
+- Data Science G20 Bali Delegate
+- Top 5 in DTS Data Science
+- AWS re/Start Program
+- Top 5 in DTS AWS Cloud Architecture
 
 ### Certificates:
 | Program | Program |
