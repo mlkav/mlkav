@@ -20,7 +20,7 @@
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/IDE-Android%20Studio-blue?&logo=android%20studio&logoColor=blue" />
+    <!-- <img src="https://img.shields.io/badge/IDE-Android%20Studio-blue?&logo=android%20studio&logoColor=blue" /> -->
     <img src="https://img.shields.io/badge/Visualization-Looker%20Studio%2C%20Tableau-blue?&logo=looker&logoColor=blue" />
     <!-- <img src="https://gpvc.arturio.dev/maulanakavaldo" /> -->
 </p>
@@ -30,11 +30,10 @@
 - <a href="https://github.com/maulanakavaldo/AWS_re-Start" target="_blank">AWS re/Start Batch 5</a>
 - <a href="https://github.com/maulanakavaldo/Digital-Talent-Scholarship/" target="_blank">DTS: PROA Google Cloud Fundamental</a>
 - <a href="https://github.com/maulanakavaldo/Digital-Talent-Scholarship/" target="_blank">DTS: FGA Data Science</a>
-- Cloud Architecting (AWS)
-- Alibaba Big Data
+- DTS Cloud Architecting (AWS)
+- DTS Alibaba Big Data
 - Dicoding Academy
 - Green Digital Skills Inco Academy
-- Kartu Prakerja
 
 
 <p>
