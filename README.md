@@ -8,9 +8,6 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-<a href="https://www.linkedin.com/in/maulana-kavaldo/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
-</a>
 
 <div id="header">
   <img src="https://komarev.com/ghpvc/?username=maulana-kavaldo&style=for-the-badge&color=green" alt=""/>
