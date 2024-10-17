@@ -27,11 +27,12 @@
 
 
 ### Student at:
-- <a href="https://github.com/maulanakavaldo/AWS_re-Start" target="_blank">AWS re/Start Batch 5</a>
-- <a href="https://github.com/maulanakavaldo/Digital-Talent-Scholarship/" target="_blank">DTS: PROA Google Cloud Fundamental</a>
-- <a href="https://github.com/maulanakavaldo/Digital-Talent-Scholarship/" target="_blank">DTS: FGA Data Science</a>
+- <a href="https://github.com/maulanakavaldo/AWS_re-Start" target="_blank">AWS re/Start Batch 5 (Orbit Future Academy)</a>
+- <a href="https://github.com/maulanakavaldo/Digital-Talent-Scholarship/" target="_blank">DTS: Google Cloud Fundamental</a>
+- <a href="https://github.com/maulanakavaldo/Digital-Talent-Scholarship/" target="_blank">DTS: Data Science (Binar Academy)</a>
+- DTS Become Cloud Engineer (Elite Academy)
 - DTS Cloud Architecting (AWS)
-- DTS Alibaba Big Data
+- DTS Alibaba Big Data (Alibaba Academy)
 - Dicoding Academy
 - Green Digital Skills Inco Academy
 
@@ -46,6 +47,7 @@
 - Top 5 in DTS Data Science
 - AWS re/Start Program
 - Top 5 in DTS AWS Cloud Architecture
+- Top 5 in DTS Alibaba Big Data (Alibaba Academy)
 
 ### Certificates:
 | Program | Program |
