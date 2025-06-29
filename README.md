@@ -36,11 +36,21 @@
 - Dicoding Academy
 - Green Digital Skills Inco Academy
 
+<div align="center">
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mlkav&hide=prs&show_icons=true&theme=tokyonight" style="display: inline-block; vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlkav&layout=compact" style="display: inline-block; vertical-align: top;" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mlkav&hide=prs&show_icons=true&theme=tokyonight" style="display: inline-block; vertical-align: top;" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlkav&layout=compact" style="display: inline-block; vertical-align: top;" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ### Awards:
 - Data Science G20 Bali Delegate
