@@ -1,3 +1,5 @@
+![favicon](https://github.com/user-attachments/assets/64c1c1a4-3cd4-450a-9767-65c3c5f0204b)
+
 # Hi there 👋 , I'm Maulana!
 
 <p>
