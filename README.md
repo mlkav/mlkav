@@ -111,3 +111,8 @@
     <a href="https://instagram.com/maulana.kavaldo" target="blank"><img src="https://img.shields.io/badge/@maulanakavaldo-30302f?style=flat&logo=instagram" /></a>
     <a href="https://paypal.me/mlkav" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p> -->
+
+<img width="1202" height="390" alt="image" src="https://github.com/user-attachments/assets/b63560c3-c96d-4803-81e2-6d733513f6ae" />
+
+
+
