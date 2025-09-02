@@ -112,7 +112,10 @@
     <a href="https://paypal.me/mlkav" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p> -->
 
-<img width="1255" height="369" alt="image" src="https://github.com/user-attachments/assets/c524ed1b-d99d-4c65-b688-c31fe466fd61" />
+
+<img width="708" height="398" alt="payment-success" src="https://github.com/user-attachments/assets/74c1a44a-4153-4d0a-9bb6-b7f4dea75bee" />
+<img width="707" height="356" alt="reminder-payment" src="https://github.com/user-attachments/assets/93052a2f-94ea-4f08-845d-4960ea3d1a75" />
+<img width="599" height="469" alt="reminder-event" src="https://github.com/user-attachments/assets/ab421114-cc44-4f39-84c6-72b96686c1ce" />
 
 
 
